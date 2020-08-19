@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\julek\IPP2\forests\Male_Zadanie\main.c(29,22): warning C4047: "!=": "int" różni się w poziomach operatorów pośrednich od "void *"
+C:\Users\julek\IPP2\forests\Male_Zadanie\main.c(75,17): warning C4473: „scanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+C:\Users\julek\IPP2\forests\Male_Zadanie\main.c(75,17): message : symbole zastępcze i ich parametry oczekują 2 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\julek\IPP2\forests\Male_Zadanie\main.c(75,17): message : brakujący argument 2 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+C:\Users\julek\IPP2\forests\Male_Zadanie\main.c(75,17): message : ten argument jest używany jako rozmiar bufora
+C:\Users\julek\IPP2\forests\Male_Zadanie\main.c(65): warning C4715: "separatorType”: niewszystkie ścieżki kodu zwracają wartość
+  male_zadanie.vcxproj -> C:\Users\julek\IPP2\forests\Male_Zadanie\Debug\male_zadanie.exe
